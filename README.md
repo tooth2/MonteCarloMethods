@@ -2,6 +2,7 @@
 A python implementation of many Monte Carlo (MC) algorithms.
 
 ## Background
+![true optimal policy](images/optimal.png)
     """Simple blackjack environment
     Blackjack is a card game where the goal is to obtain cards that sum to as
     near as possible to 21 without going over.  They're playing against a fixed
