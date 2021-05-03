@@ -3,7 +3,7 @@ A python implementation of many Monte Carlo (MC) algorithms.
 
 ## Background
 ![true optimal policy](images/optimal.png)
-    > Simple blackjack environment
+>  <p> Simple blackjack environment
     Blackjack is a card game where the goal is to obtain cards that sum to as
     near as possible to 21 without going over.  They're playing against a fixed
     dealer.
@@ -26,7 +26,7 @@ A python implementation of many Monte Carlo (MC) algorithms.
     described in Example 5.1 in Reinforcement Learning: An Introduction
     by Sutton and Barto.
     http://incompleteideas.net/book/the-book-2nd.html
-
+</p>
 
 ## Implementation 
 1. MC Prediction (for estimating the action-value function)
