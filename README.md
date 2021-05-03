@@ -35,7 +35,7 @@ A python implementation of many Monte Carlo (MC) algorithms.
         - num_episodes: This is the number of episodes that are generated through agent-environment interaction.
         - generate_episode: This is a function that returns an episode of interaction.
         - gamma: This is the discount rate. It must be a value between 0 and 1, inclusive (default value: 1).
-    - output 
+    - The algorithm returns as output:
         - Q: This is a dictionary (of one-dimensional arrays) where Q[s][a] is the estimated action value corresponding to state s and action a.
 2. constant- alpha MC control
     - arguments
