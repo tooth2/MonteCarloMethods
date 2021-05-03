@@ -36,7 +36,7 @@ A python implementation of many Monte Carlo (MC) algorithms.
         - gamma: This is the discount rate. It must be a value between 0 and 1, inclusive (default value: 1).
     - output 
         - Q: This is a dictionary (of one-dimensional arrays) where Q[s][a] is the estimated action value corresponding to state s and action a.
-2. constant-$\alpha$ MC control
+2. constant- alpha MC control
     - arguments
         - env: This is an instance of an OpenAI Gym environment.
         - num_episodes: This is the number of episodes that are generated through agent-environment interaction.
