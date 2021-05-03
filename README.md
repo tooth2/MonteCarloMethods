@@ -47,6 +47,8 @@ A python implementation of many Monte Carlo (MC) algorithms.
         - Q: This is a dictionary (of one-dimensional arrays) where Q[s][a] is the estimated action value corresponding to state s and action a.
         - policy: This is a dictionary where policy[s] returns the action that the agent chooses after observing state s.
 
+## Result 
+![plotted policy](images/policy.png)
 
 ## Reference 
 - [OpenAI Gym: BlackJack Env] https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py
