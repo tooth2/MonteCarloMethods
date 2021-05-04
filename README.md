@@ -48,9 +48,7 @@ A python implementation of many Monte Carlo (MC) algorithms.
         - policy: This is a dictionary where policy[s] returns the action that the agent chooses after observing state s.
 
 ## Result 
-|Usable Ace action-value function | No usable Ace action-value function|
-|--|--|
-|<img src = "/images/result1.png" alt = "action-value function" /> | <img src = "/images/result2.png" alt = "action-value function" /> |
+![Action-value function estimating Q](images/result1.png)
 
 poltted optimal policy
 ![plotted policy](images/policy.png)
